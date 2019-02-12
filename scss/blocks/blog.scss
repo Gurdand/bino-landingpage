@@ -1,6 +1,6 @@
 .blog {
     background-color: $white-gray;
-    padding: 140px 0;
+    padding: 140px 0 0;
     border-top: 1px solid #d8d9db;
 
     p {
@@ -28,7 +28,7 @@
         display: flex;
         flex-wrap: wrap;
         max-width: 1920px;
-        margin: 60px auto;
+        margin: 60px auto 0;
 
         .blog__element {
             flex-basis: 50%;
@@ -142,7 +142,7 @@
 
 @media(max-width: 980px) {
     .blog {
-        padding: 50px 0;
+        padding: 50px 0 0;
 
         .blog__block {
 
