@@ -3,6 +3,7 @@
 @import "./variables";
 @import "./mixins";
 @import "./core";
+@import "./animations.scss";
 
 @import "./blocks/section-top.scss";
 @import "./blocks/menu.scss";
@@ -23,3 +24,5 @@
 @import "./blocks/keep.scss";
 @import "./blocks/free.scss";
 @import "./blocks/footer.scss";
+@import "./blocks/socials.scss";
+@import "./blocks/arrow-up.scss";
